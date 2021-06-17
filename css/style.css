@@ -10,6 +10,7 @@ h1{
 h2{
   color:orangered;
 }
+
 .carousel-item,
 .carousel-inner,
 .carousel-inner img {
@@ -17,15 +18,11 @@ h2{
   width: auto;
 }
 
-/* .carousel-item {
-  text-align: center;
-} */
-
 .carousel {
-  height: 450px;
+  height: 400px;
 }
 
 h3{
-  padding: 20px;
+  /* padding: 10px; */
   background: rgba(67, 12, 170, 0.308);
   }
