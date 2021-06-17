@@ -3,7 +3,9 @@ body{
     font-family: "Carnivalee Freakshow";
     background-color: blueviolet;
 }
-
+h1, h2{
+  color: yellow;
+}
 .carousel-item,
 .carousel-inner,
 .carousel-inner img {
@@ -16,7 +18,7 @@ body{
 } */
 
 .carousel {
-  height: 500px;
+  height: 450px;
 }
 /* .carousel-inner img {
   width: 100%;
